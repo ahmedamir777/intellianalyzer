@@ -353,15 +353,7 @@ The goal is not to replace statistical reasoning or data scientists, but to help
 Computer and Data Science Student | Aspiring Data Scientist & Machine Learning Engineer
 
 - GitHub: (https://github.com/ahmedamir777)
-- LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-amir-swe/))
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License, unless otherwise specified in the repository.
-
-If you choose the MIT License, add a `LICENSE` file containing the standard MIT license text.
+- LinkedIn: (https://www.linkedin.com/in/ahmed-amir-swe/))
 
 ---
 
