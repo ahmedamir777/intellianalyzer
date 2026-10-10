@@ -353,7 +353,7 @@ The goal is not to replace statistical reasoning or data scientists, but to help
 Computer and Data Science Student | Aspiring Data Scientist & Machine Learning Engineer
 
 - GitHub: (https://github.com/ahmedamir777)
-- LinkedIn: (https://www.linkedin.com/in/ahmed-amir-swe/))
+- LinkedIn: (https://www.linkedin.com/in/ahmed-amir-swe/)
 
 ---
 
