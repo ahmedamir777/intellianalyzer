@@ -13,7 +13,7 @@ import plotly.graph_objects as go
 # CONFIGURATION
 # ============================================================
 
-API_URL = "https://amplify-ivy-poster.ngrok-free.dev"
+API_URL = "your_api_url"
 
 st.set_page_config(
     page_title="Intellianalyzer",
