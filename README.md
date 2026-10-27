@@ -133,11 +133,9 @@ The frontend can run locally while the model backend runs in a separate environm
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intellianalyzer.git
+git clone https://github.com/ahmedamir777/intellianalyzer.git
 cd intellianalyzer
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
